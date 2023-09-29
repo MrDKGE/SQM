@@ -57,9 +57,15 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 6. Create a pull request on GitHub from your forked repository to the main repository.
 7. Describe your changes in the pull request, and the maintainers will review your code.
 
+## Known Issues
+1. If the webpage is served over HTTPS, the browser will block the requests to the Sonarr server if it's using HTTP.
+
+## Tested On
+* Sonarr v4
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgments
 
